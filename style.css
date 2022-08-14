@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&family=Source+Sans+Pro:wght@300&display=swap');
+
+h1 {
+    font-family: 'Enriqueta', serif;
+    color: #0D4509;
+    font-size: 90px;
+}
+
+#bio {
+    font-size: 40px;
+}
+
+#links {
+    font-size: 28px;
+}
+
+#creds {
+    font-size: 28px;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #3BB031;
+}
+
+body {
+    background-image: url("imgs/Background.jpeg");
+    background-size: cover;
+}
