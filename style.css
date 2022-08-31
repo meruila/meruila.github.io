@@ -1,9 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Enriqueta&family=Source+Sans+Pro:wght@300&display=swap');
 
+/* .card {
+    margin: auto;
+    padding: 2em;
+    border-radius: 1em;
+    border: 1px solid transparentize(#ffffff, 0.5);
+    text-shadow: 0 0 1em transparentize(#000000, 0.5);
+    background: transparentize(#ffffff, 0.8);
+    backdrop-filter: blur(20px);
+    transform: perspective(500px);
+    transform-style: preserve-3d;
+} */
+
+.hello {
+    text-align: center;
+}
+
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
 h1 {
     font-family: 'Enriqueta', serif;
     color: #0D4509;
     font-size: 90px;
+    text-align: center;
 }
 
 #bio {
@@ -18,9 +42,14 @@ h1 {
     font-size: 28px;
 }
 
+:any-link {
+    color: #0c5006;
+}
+
 p {
     font-family: 'Source Sans Pro', sans-serif;
-    color: #3BB031;
+    color: #0c5006;
+    text-align: center;
 }
 
 body {
