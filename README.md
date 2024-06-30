@@ -1,3 +1,3 @@
 # meruila.github.io
 
-Website template created by Claudia Reynders (https://github.com/Mangamaui/eleventy-not-so-minimal-blog-starter) using Eleventy.
+Website template from my webdev homework (fall semester 2022)
