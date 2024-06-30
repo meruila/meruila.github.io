@@ -1,0 +1,86 @@
+/* Navigation bar specifications */
+
+#topbar {
+    display: flex;
+    color: #F9FEFB;
+    align-items: center;
+    background-color: #132734;
+}
+
+/* Links in the navigation bar */
+#topbar a {
+    color: #F9FEFB;
+    text-decoration: none;
+}
+
+/* When hovered, change opacity and add underline */
+#topbar a:hover {
+    text-decoration: underline #F9FEFB;
+    text-underline-offset: 0.5em;
+    opacity: 0.7;
+}
+
+/* LinkedIn icon margin */
+#topbar .linkedin {
+    margin-right: 1em;
+}
+
+/* LinkedIn icon size */
+#linkedin-icon {
+    width: 1.75em;
+}
+
+#topbar .item-topbar {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-bottom: 1.5em;
+    padding-right: 0.25em;
+    font-size: 14px;
+}
+
+/* Left side of navigation bar */
+#topbar .left-topbar {
+    flex: 1;
+}
+
+/* Right side of navigation bar */
+#topbar .right-topbar .item-topbar {
+    text-decoration: none;
+}
+
+/* Do not display burger icon and mobile version links when on desktop */
+#burger {
+    display: none;
+}
+
+#burger-icon {
+    display: none;
+}
+
+.mobile-links {
+    display: none;
+}
+
+/* Display burger icon and mobile version links when width is less than or equal to 650px */
+@media only screen and (max-width: 650px) {
+    #burger-icon {
+        float: right;
+        display: flex;
+        width: 2.5vh;
+        padding-right: 1.5em;
+    }
+
+    #burger:checked + label ~ .mobile-links {
+        background-color: #333;
+        text-align: justify;
+        display: block;
+        padding-top: 1.5em;
+    }
+
+    #topbar a:not(.burger) {
+        display: none;
+    }
+}

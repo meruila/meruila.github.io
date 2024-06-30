@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&family=Raleway:wght@300&display=swap');
+
+/* CSS of HTML body */
+body {
+    margin: 0em;
+    margin-top: 0em;
+    padding: 0em;
+    background-color: #DFF5E7;
+}
+
+/* Headings */
+.title-name {
+    font-family: 'Enriqueta', serif;
+    font-weight: 900;
+    font-size: calc(1em + 2.2vw);
+}
+
+/* Text content spacing (e.g., <p> tags) */
+#content {
+    padding: 3em;
+    display: flex;
+    height: 50vh;
+    width: 80vw;
+}
+
+/* Text content font style (e.g., <p> tags) */
+.text-content {
+    font-family: 'Raleway', sans-serif;
+    font-size: calc(1em + 0.4vw);
+    text-align: justify;
+}
+
+.extra-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: calc(1em + 0.4vw);
+}
+
+/* Image of student is 100% */
+#mirella {
+    width: 100%;
+}
+
+/* Image of piano is 100% */
+#piano {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.whole-content {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Right content containing text */
+.right-content {
+    flex: 50%;
+    overflow-y: scroll;
+    padding-left: 5%;
+}
+
+/* Extra content (i.e., fun fact) */
+.extra-content {
+    /* overflow: hidden; */
+    overflow: scroll;
+    /* clear: both; */
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.extra-content-res {
+    display: none;
+}
+
+/* Styling for scientific name */
+.scientific {
+    font-style: italic;
+}
+
+/* Introduction to projects heading */
+.intro-projects {
+    margin: auto;
+    text-align: center;
+}
+
+/* When width is less than or equal to 650px, make the two-column format to one-column */
+@media only screen and (max-width: 650px) {
+    #content{
+        display: grid;
+        row-gap: 20vh;
+        grid-template-rows: 70vh;
+        margin-bottom: 70em;
+        width: 80vw;
+    }
+    .extra-content {
+        display: none;
+    }
+    .extra-content-res {
+        display: flex;
+    }
+    .right-content{
+        overflow-y: visible;
+        overflow-x: visible;
+        padding-left: 0%;
+    }
+    #mirella {
+        display: flex;
+        width: 80vw;
+    }
+
+}
