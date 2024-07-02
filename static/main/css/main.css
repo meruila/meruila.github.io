@@ -35,6 +35,11 @@ body {
 
 }
 
+.flowers-title {
+    text-align: center;
+    font-size: calc(1em + 1.5vw);
+}
+
 .in-betweens {
     display: block;
     margin: 0.2em;
