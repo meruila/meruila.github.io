@@ -2,20 +2,21 @@
 
 #topbar {
     display: flex;
-    color: #F9FEFB;
+    color: #0B1E36;
+    font-family: 'Helvetica', sans-serif;
     align-items: center;
-    background-color: #132734;
+    /* background-color: #132734; */
 }
 
 /* Links in the navigation bar */
 #topbar a {
-    color: #F9FEFB;
+    color: #0B1E36;
     text-decoration: none;
 }
 
 /* When hovered, change opacity and add underline */
 #topbar a:hover {
-    text-decoration: underline #F9FEFB;
+    text-decoration: underline #41638a;
     text-underline-offset: 0.5em;
     opacity: 0.7;
 }
@@ -43,6 +44,7 @@
 
 /* Left side of navigation bar */
 #topbar .left-topbar {
+    font-weight: 700;
     flex: 1;
 }
 
