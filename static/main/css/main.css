@@ -97,29 +97,44 @@ body {
     text-align: center;
 }
 
+#mobile-content {
+    display: none;
+}
+
 /* When width is less than or equal to 650px, make the two-column format to one-column */
 @media only screen and (max-width: 650px) {
-    #content{
-        display: grid;
-        row-gap: 20vh;
-        grid-template-rows: 70vh;
-        margin-bottom: 70em;
-        width: 80vw;
-    }
-    .extra-content {
+    #content {
         display: none;
     }
-    .extra-content-res {
-        display: flex;
+
+    #mobile-content {
+        margin-top: -2em;
+        display: block;
     }
-    .right-content{
+    
+   .mobile-nav {
+        text-align: center;
+
+   }
+
+   .mobile-text-content{
+    font-size: calc(1em + 0.3vw);
+}
+
+    .mobile-right-content{
         overflow-y: visible;
         overflow-x: visible;
         padding-left: 0%;
+        text-align: justify;
+        color: #0B1E36;
+        font-family: 'Raleway', sans-serif;
+        font-size: calc(1em + 0.4vw);
+
     }
+
     #mirella {
         display: flex;
-        width: 80vw;
+        width: 60vw;
     }
 
 }

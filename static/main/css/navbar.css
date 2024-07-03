@@ -68,7 +68,7 @@
 
 /* Display burger icon and mobile version links when width is less than or equal to 650px */
 @media only screen and (max-width: 650px) {
-    #burger-icon {
+    /* #burger-icon {
         float: right;
         display: flex;
         width: 2.5vh;
@@ -80,9 +80,13 @@
         text-align: justify;
         display: block;
         padding-top: 1.5em;
+    }*/
+
+    .mobile-title-name {
+        text-align: center;
     }
 
-    #topbar a:not(.burger) {
+    #topbar a {
         display: none;
     }
 }
