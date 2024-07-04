@@ -33,7 +33,23 @@ Mobile navigation bar:
                 <div class="item-topbar nav-bar"><a class="nav-link" href="index.html">hello!</a></div>
                 <div class="item-topbar nav-bar"><a class="nav-link" href="projects.html">projects</a></div>
                 <div class="item-topbar nav-bar"><a class="nav-link" href="experience.html">experience</a></div>
-                <div class="item-topbar nav-bar"><a class="nav-link" href="flowers.html">flowers</a></div>
+                <div class="item-topbar nav-bar last-item"><a class="nav-link" href="flowers.html">flowers</a></div>
+                <!-- </div> -->
+                <div class="item-topbar nav-bar menu-bar image-topbar">
+                    <!-- For content of mobile navigation (max width <650px) -->
+                    <!-- <input> tags always contain a title attribute that describe the input pattern required -->
+                    <input type="checkbox" title="navigation-click" id="burger"/>
+                    <label class="nav-burger" for="burger">
+                        <!-- <img> tags always include alt attribute and loading="lazy" attribute -->
+                        <img src="../static/main/images/menu-bar.png" alt="burger icon" loading="lazy" id="burger-icon">
+                    </label>
+                    <a class="mobile-links" href="index.html">Home</a>
+                    <!-- <a class="mobile-links" href="projects.html">Projects</a> -->
+                    </a>
+                    <!-- <a class="mobile-links" target="_blank" href="https://www.linkedin.com/in/meruila/">
+                        LinkedIn
+                    </a> -->
+                    
                 </div>
             </div>
         </nav>
