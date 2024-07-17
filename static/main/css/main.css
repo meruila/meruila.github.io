@@ -23,7 +23,7 @@ body {
     text-align: left;
     color: #0B1E36;
     font-family: 'Fira Sans', sans-serif;
-    font-weight: 900;
+    font-weight: 700;
     font-size: calc(1em + 1.5vw);
 }
 
@@ -31,7 +31,7 @@ body {
     text-align: left;
     color: #0B1E36;
     font-family: 'Fira Sans', sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-size: calc(0.65em + 1.2vw);
 
 }
