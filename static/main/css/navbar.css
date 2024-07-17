@@ -3,7 +3,7 @@
 #topbar {
     display: flex;
     color: #0B1E36;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     align-items: center;
     /* background-color: #132734; */
 }

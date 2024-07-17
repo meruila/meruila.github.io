@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 /* CSS of HTML body */
 body {
@@ -13,7 +14,7 @@ body {
 .title-name {
     text-align: center;
     color: #0B1E36;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 900;
     font-size: calc(1em + 2.2vw);
 }
@@ -21,7 +22,7 @@ body {
 .projects-title{
     text-align: left;
     color: #0B1E36;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 900;
     font-size: calc(1em + 1.5vw);
 }
@@ -29,7 +30,7 @@ body {
 .projects-subtitle {
     text-align: left;
     color: #0B1E36;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 700;
     font-size: calc(0.65em + 1.2vw);
 
@@ -56,7 +57,7 @@ body {
 /* Text content font style (e.g., <p> tags) */
 .text-content {
     color: #0B1E36;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: calc(1em + 0.4vw);
     text-align: justify;
 }
@@ -127,7 +128,7 @@ body {
         padding-left: 0%;
         text-align: justify;
         color: #0B1E36;
-        font-family: 'Raleway', sans-serif;
+        font-family: 'Fira Sans', sans-serif;
         font-size: calc(1em + 0.4vw);
 
     }
