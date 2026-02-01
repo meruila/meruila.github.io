@@ -15,11 +15,12 @@ cv:
         end_date: 2024
 
       - institution: Michigan State University
-        location: East Lansing, MI, USA
-        area: Exchange Student
+        location: Michigan, US
+        url: https://msu.edu/
+        area: Fall Semester Exchange Student
         studyType: Computing and Information Sciences
         start_date: ''
-        end_date: Fall 2022
+        end_date: 2022
 
     Work:
       - company: University of the Philippines Los Baños 
@@ -36,7 +37,7 @@ cv:
 
       - company: Wang Computational Biology Lab
         position: Undergraduate Research Student
-        location: East Lansing, MI, USA
+        location: Michigan, US
         start_date: 08/2022
         end_date: 12/2022
 
