@@ -42,8 +42,14 @@ cv:
         start_date: 08/2022
         end_date: 12/2022
 
+      - company: Philippine Genome Center - Core Facility for Bioinformatics
+        position: Bioinformatics Intern
+        location: Metro Manila, Philippines
+        start_date: 06/2021
+        end_date: 09/2021
+
     Conference Presentations:
-      - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (<i>Sardinella tawilis</i> Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation
+      - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (<i>Sardinella tawilis</i> Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation.
         authors:
           - KUEB Antonio
           - M Arguelles
@@ -55,8 +61,8 @@ cv:
           - JGC Angeles
         publisher: Philippine Society of Biochemistry and Molecular Biology Annual Convention
         releaseDate: 2025
-        url: 
-        summary: Best Poster in the Data Science and Bioinformatics Category
+        url: https://drive.google.com/file/d/1gSn54E0ROc7c97N7JyIuftOIRcNY8TLY/view?usp=sharing
+        summary: KUEB Antonio, M Arguelles, BAN Monteiro, CKP Yuson, LJR Dela Cruz, AP Manalang, NO Villa, JGC Angeles. Best Poster in the Data Science and Bioinformatics Category. Nueva Ecija, Philippines.
 
       - title: Methylome Analysis of Tawilis (<i>Sardinella tawilis</i>) Utilizing Various Reference Genomes Using Bowtie2.
         authors:
@@ -68,7 +74,25 @@ cv:
           - JGC Angeles
         publisher: National Academy of Science and Technology Philippines Annual Scientific Meeting
         releaseDate: 2024
-        url:
+        url: https://drive.google.com/file/d/1zRmiKDWzrkrr9FtfdYABmWALtIk6nWzb/view?usp=sharing
+        summary: BAN Monteiro, CKP Yuson, KUEB Antonio, M Arguelles, LJR Dela Cruz, JGC Angeles. Manila, Philippines.
+
+        - title: Methylome Analysis of Sardinella tawilis Osmoregulatory Organs Reveal Insights into Its Freshwater Adaptation.
+        authors:
+          - KUEB Antonio
+          - M Arguelles
+          - BAN Monteiro
+          - CKP Yuson
+          - LJR Dela Cruz
+          - MRU Anacleto
+          - AJ Jacildo
+          - NO Villa
+          - CDO Calapit-Palao
+          - JGC Angeles
+        publisher: Plant and Animal Genome Conference - Asia.
+        releaseDate: 2024
+        url: https://drive.google.com/file/d/1B8jTmAfLz_58mToCjIfwFROrs0x39bbi/view?usp=sharing
+        summary: KUEB Antonio, M Arguelles, BAN Monteiro, CKP Yuson, LJR Dela Cruz, MRU Anacleto, AJ Jacildo, NO Villa, CDO Calapit-Palao, JGC Angeles. Shenzhen, China.
 
       - title: Comparative Analyses of Bioinformatics Pipelines for <i>Sardinella tawilis</i> Methylomes in Relation to Environmental Adaptation.
         authors:
@@ -82,6 +106,8 @@ cv:
           - JGC Angeles
         publisher: Taal Research Summit
         releaseDate: 2024
+        url: https://drive.google.com/file/d/1Tf7RX8YJmcxr-6nSajGTU1vp6M00ma1s/view?usp=sharing
+        summary: M Arguelles, KUEB Antonio, BAN Monteiro, CKP Yuson, MRU Anacleto, NO Villa, CDO Calapit-Palao, JGC Angeles. Batangas, Philippines.
 
     Skills:
       - name: Scripting
