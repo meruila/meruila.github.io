@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title:  Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (*Sardinella tawilis* Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: conference presentations
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

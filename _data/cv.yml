@@ -4,7 +4,6 @@ cv:
   email: mirarguelles@gmail.com
   location: Metro Manila, Philippines
   image: ""
-  summary: ""
 
   sections:
     Education:
@@ -12,32 +11,32 @@ cv:
         location: Laguna, Philippines
         url: https://ics.uplb.edu.ph/
         studyType: BS Computer Science
-        end_date: 2024
+        # end_date: 2024
 
       - institution: Michigan State University
         location: East Lansing, MI, USA
         area: Computing and Information Sciences
         studyType: Exchange Student
-        end_date: Fall Semester 2022
+        # end_date: Fall Semester 2022
 
     Experience:
       - company: University of the Philippines Los Baños 
         position: Instructor IV
         location: Laguna, Philippines
-        start_date: September 2024
-        end_date: January 2026
+        start_date: 09/2024
+        end_date: 01/2026
 
       - company: Philippine Genome Center - Program for Agriculture, Livestock, Fisheries, and Forestry
         position: Student Researcher
         location: Laguna, Philippines
-        start_date: August 2022
-        end_date: August 2024
+        start_date: 08/2022
+        end_date: 08/2024
 
       - company: Wang Computational Biology Lab
         position: Undergraduate Research Student
         location: East Lansing, MI, USA
-        start_date: August 2022
-        end_date: December 2022
+        start_date: 08/2022
+        end_date: 12/2022
 
     Conference Presentations:
       - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (*Sardinella tawilis* Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation
