@@ -10,6 +10,7 @@ cv:
       - institution: University of the Philippines Los Baños 
         location: Laguna, Philippines
         url: https://ics.uplb.edu.ph/
+        area: Magna cum laude.
         studyType: BS Computer Science
         start_date: ''
         end_date: 2024
@@ -17,7 +18,7 @@ cv:
       - institution: Michigan State University
         location: Michigan, US
         url: https://msu.edu/
-        area: Fall Semester Exchange Student
+        area: Fall semester exchange student.
         studyType: Computing and Information Sciences
         start_date: ''
         end_date: 2022
