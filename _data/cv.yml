@@ -43,7 +43,7 @@ cv:
         end_date: 12/2022
 
     Conference Presentations:
-      - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (*Sardinella tawilis* Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation
+      - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (<i>Sardinella tawilis</i> Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation
         authors:
           - KUEB Antonio
           - M Arguelles
@@ -58,7 +58,7 @@ cv:
         url: 
         summary: Best Poster in the Data Science and Bioinformatics Category
 
-      - title: Methylome Analysis of Tawilis (*Sardinella tawilis*) Utilizing Various Reference Genomes Using Bowtie2.
+      - title: Methylome Analysis of Tawilis (<i>Sardinella tawilis</i>) Utilizing Various Reference Genomes Using Bowtie2.
         authors:
           - BAN Monteiro
           - CKP Yuson
@@ -70,7 +70,7 @@ cv:
         releaseDate: 2024
         url:
 
-      - title: Comparative Analyses of Bioinformatics Pipelines for *Sardinella tawilis* Methylomes in Relation to Environmental Adaptation.
+      - title: Comparative Analyses of Bioinformatics Pipelines for <i>Sardinella tawilis</i> Methylomes in Relation to Environmental Adaptation.
         authors:
           - M Arguelles
           - KUEB Antonio
