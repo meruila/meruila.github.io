@@ -12,16 +12,16 @@ cv:
         url: https://ics.uplb.edu.ph/
         studyType: BS Computer Science
         start_date: ''
-        end_date: ''
+        end_date: 2024
 
       - institution: Michigan State University
         location: East Lansing, MI, USA
         area: Exchange Student
         studyType: Computing and Information Sciences
         start_date: ''
-        end_date: ''
+        end_date: Fall 2022
 
-    Experience:
+    Work:
       - company: University of the Philippines Los Baños 
         position: Instructor IV
         location: Laguna, Philippines
