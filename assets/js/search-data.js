@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-experience",
-          title: "Experience",
+          title: "experience",
           description: "",
           section: "Navigation",
           handler: () => {
