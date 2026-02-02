@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Tawilis Notebook
+title:  <a href="https://meruila.github.io/tawilis-bioinfo/">Tawilis Notebook</a>
 description: documentation of bioinformatics processes for the tawilis multi-omics project
 img: assets/img/1.jpg
 importance: 1

@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Some projects I made.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [bioinformatics, game development, public class projects]
 horizontal: false
 ---
