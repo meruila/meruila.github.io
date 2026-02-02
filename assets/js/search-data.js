@@ -86,9 +86,9 @@ ninja.data = [{
           description: "student record verification system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/class_shacker/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-traffic-jam-assist",
+          title: 'Traffic jam assist',
+          description: "project for CSE 435 - Software Engineering (MSU)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/class_tja/";
             },},{id: "projects-tiny-game-collection",
