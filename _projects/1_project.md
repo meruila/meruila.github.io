@@ -18,6 +18,3 @@ The notebook was made to illustrate the methylomics workflow of the Tawilis Proj
 <div class="caption">
     A work in progress.
 </div>
-
-
-{% endraw %}
