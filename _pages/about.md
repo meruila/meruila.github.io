@@ -27,7 +27,7 @@ latest_posts:
 
 🌺🌺🌺
 
-Hello, I am Mira! I am a software developer with a background in bioinformatics and data analysis. Previously, I taught introductory programming, digital logic circuits, database systems, and software engineering at UP Los Baños, where I also took my bachelors.
+Hello, I am Mira! I am a software developer with a background in bioinformatics and data analysis. Previously, I taught introductory programming, digital logic circuits, database systems, and software engineering at the Institute of Computer Science in UP Los Baños, where I also took my bachelors.
 
 Prior to this, I was a student researcher at the Philippine Genome Center - Program for Agriculture, Livestock, Fisheries, and Forestry under the Tawilis Multi-omics Project and the Wang Computational Biology Lab in Michigan State University.
 

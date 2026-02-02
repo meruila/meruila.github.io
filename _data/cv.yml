@@ -25,7 +25,7 @@ cv:
 
     Work:
       - company: University of the Philippines Los Baños 
-        position: Instructor IV
+        position: Instructor 4
         location: Laguna, Philippines
         start_date: 09/2024
         end_date: 01/2026
@@ -36,7 +36,7 @@ cv:
         start_date: 08/2022
         end_date: 08/2024
 
-      - company: Wang Computational Biology Lab
+      - company: Wang Computational Biology Lab, Michigan State University
         position: Undergraduate Research Student
         location: Michigan, US
         start_date: 08/2022
