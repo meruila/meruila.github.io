@@ -61,17 +61,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-bsseq-tools",
+          section: "News",},{id: "projects-bsseq-tools",
           title: 'BSSeq Tools',
           description: "performance evaluation of bioinformatic tools for bisulfite sequencing in animal methylomes",
           section: "Projects",handler: () => {
@@ -91,6 +81,16 @@ ninja.data = [{
           description: "documentation of bioinformatics processes for the tawilis multi-omics project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_tawilis/";
+            },},{id: "projects-shacker",
+          title: 'SHACker',
+          description: "student record verification system",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/class_shacker/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/class_tja/";
             },},{id: "projects-tiny-game-collection",
           title: 'Tiny game collection',
           description: "games published on itch.io",
