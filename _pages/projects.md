@@ -5,7 +5,7 @@ permalink: /projects/
 description: list of projects I made. some of the projects here were collaborations (e.g. tawilis team, class projects).
 nav: true
 nav_order: 2
-display_categories: [bioinformatics, game development, public class projects]
+display_categories: [bioinformatics, game development, class projects]
 horizontal: false
 ---
 
