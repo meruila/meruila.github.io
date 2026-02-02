@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bsseq tools
+title: BSSeq Tools
 description: performance evaluation of bioinformatic tools for bisulfite sequencing in animal methylomes
 img: assets/img/2_bsseq.png
 importance: 2

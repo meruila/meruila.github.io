@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  tawilis notebook
+title: Tawilis Notebook
 description: documentation of bioinformatics processes for the tawilis multi-omics project
 img: assets/img/1.JPG
 importance: 1
