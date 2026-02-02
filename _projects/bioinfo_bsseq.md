@@ -13,6 +13,6 @@ Technologies used: Shell scripting, Python, Sherman, Bismark, BSMAP, BSSeeker2, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bioinfo_bsseq.png" title="BSSeq Tools" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2_bsseq.png" title="BSSeq Tools" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

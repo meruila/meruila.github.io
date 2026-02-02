@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some projects I made.
+description: list of projects I made. some of the projects here were collaborations (e.g. tawilis team, class projects).
 nav: true
 nav_order: 2
 display_categories: [bioinformatics, game development, public class projects]
