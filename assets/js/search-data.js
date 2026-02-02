@@ -61,24 +61,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+          section: "News",},{id: "projects-unconditional",
+          title: 'Unconditional',
+          description: "presented at ESGS Indie Fiesta 2019",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
@@ -101,11 +86,26 @@ ninja.data = [{
           description: "performance evaluation of bioinformatic tools for bisulfite sequencing in animal methylomes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_bsseq/";
+            },},{id: "projects-tawilis-osmoregulatory-organs",
+          title: 'Tawilis Osmoregulatory Organs',
+          description: "PAG-ASIA 2024 submission",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bioinfo_osmoregulatory/";
+            },},{id: "projects-stickleback-methylation",
+          title: 'Stickleback Methylation',
+          description: "DNA methylation profiling of marine and freshwater stickleback",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bioinfo_stickleback/";
             },},{id: "projects-tawilis-notebook",
           title: 'Tawilis Notebook',
           description: "documentation of bioinformatics processes for the tawilis multi-omics project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_tawilis/";
+            },},{id: "projects-lumina",
+          title: 'Lumina',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gamedev_lumina/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
