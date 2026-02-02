@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Traffic jam assist
-description: CSE 435: Software Engineering (MSU)
+description: project for CSE 435 - Software Engineering (MSU)
 img: assets/img/8_tja.png
 redirect: https://cse.msu.edu/~cse435/
 importance: 1
