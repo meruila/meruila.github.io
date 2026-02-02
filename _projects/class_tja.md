@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Traffic Jam Assist
-description: project for CSE 435: Software Engineering
-img: assets/img/8_tja.png
-redirect: https://cse.msu.edu/~cse435/
+title: SHACker
+description: student record verification system
+img: assets/img/9_shacker.png
+redirect: https://github.com/meruila/SHACker
 importance: 1
-category: game development
+category: class projects
 ---
