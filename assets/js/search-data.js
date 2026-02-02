@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-experience",
           title: "experience",
           description: "",
@@ -68,17 +61,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-tawilis-notebook",
-          title: 'Tawilis Notebook',
-          description: "documentation of bioinformatics processes for the tawilis multi-omics project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -113,6 +96,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-bsseq-tools",
+          title: 'BSSeq Tools',
+          description: "performance evaluation of bioinformatic tools for bisulfite sequencing in animal methylomes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bioinfo_bsseq/";
+            },},{id: "projects-tawilis-notebook",
+          title: 'Tawilis Notebook',
+          description: "documentation of bioinformatics processes for the tawilis multi-omics project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bioinfo_tawilis/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
