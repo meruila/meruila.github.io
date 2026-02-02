@@ -72,38 +72,38 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "projects-bsseq-tools",
-          title: 'bsseq tools',
+          title: 'BSSeq Tools',
           description: "performance evaluation of bioinformatic tools for bisulfite sequencing in animal methylomes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_bsseq/";
             },},{id: "projects-tawilis-osmoregulatory-organs",
-          title: 'tawilis osmoregulatory organs',
+          title: 'Tawilis Osmoregulatory Organs',
           description: "partial outputs of methylome analysis of tawilis gills and kidneys for PAG-ASIA 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_osmoregulatory/";
             },},{id: "projects-stickleback-methylation",
-          title: 'stickleback methylation',
+          title: 'Stickleback Methylation',
           description: "DNA methylation profiling of marine and freshwater stickleback",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_stickleback/";
             },},{id: "projects-tawilis-notebook",
-          title: 'tawilis notebook',
+          title: 'Tawilis Notebook',
           description: "documentation of bioinformatics processes for the tawilis multi-omics project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bioinfo_tawilis/";
             },},{id: "projects-tiny-game-collection",
-          title: 'tiny game collection',
-          description: "itch.io works",
+          title: 'Tiny game collection',
+          description: "games published on itch.io",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gamedev_itchio/";
             },},{id: "projects-lumina",
-          title: 'lumina',
-          description: "",
+          title: 'Lumina',
+          description: "game programming final project (2019)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gamedev_lumina/";
             },},{id: "projects-unconditional",
-          title: 'unconditional',
-          description: "presented at ESGS Indie Fiesta 2019",
+          title: 'Unconditional',
+          description: "presented in ESGS Indie Fiesta 2019",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gamedev_unconditional/";
             },},{id: "teachings-data-science-fundamentals",
