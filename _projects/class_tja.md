@@ -5,5 +5,5 @@ description: project for CSE 435: Software Engineering
 img: assets/img/8_tja.png
 redirect: https://cse.msu.edu/~cse435/
 importance: 1
-category: class projects
+category: game development
 ---
