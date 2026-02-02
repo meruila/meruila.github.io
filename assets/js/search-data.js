@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some projects I made.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -68,9 +68,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-genome-wide-methylation-profiling-of-endemic-freshwater-sardinella-sardinella-tawilis-herre-1927-osmoregulatory-organs-in-relation-to-its-freshwater-adaptation",
-          title: 'Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (*Sardinella tawilis* Herre, 1927) Osmoregulatory Organs...',
-          description: "with background image",
+          section: "News",},{id: "projects-tawilis-notebook",
+          title: 'Tawilis Notebook',
+          description: "documentation of bioinformatics processes for the tawilis multi-omics project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
