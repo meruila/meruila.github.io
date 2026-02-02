@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SHACker
-description: student record verification system
-img: assets/img/9_shacker.png
-redirect: https://github.com/meruila/SHACker
+title: Traffic jam assist
+description: CSE 435: Software Engineering (MSU)
+img: assets/img/8_tja.png
+redirect: https://cse.msu.edu/~cse435/
 importance: 1
 category: class projects
 ---
