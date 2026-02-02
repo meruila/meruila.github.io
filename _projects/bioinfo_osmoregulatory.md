@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tawilis Osmoregulatory Organs
-description: PAG-ASIA 2024 submission
+title: tawilis osmoregulatory organs
+description: partial outputs of methylome analysis of tawilis gills and kidneys for PAG-ASIA 2024
 img: assets/img/4_osmoregulatory.png
 redirect: https://github.com/meruila/tawilis-osmoregulatory-organs
-importance: 4
+importance: 3
 category: bioinformatics
 ---

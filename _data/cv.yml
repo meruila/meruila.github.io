@@ -49,7 +49,7 @@ cv:
         end_date: 09/2021
 
     Conference Presentations:
-      - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (<i>Sardinella tawilis</i> Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation.
+      - title: Genome-wide Methylation Profiling of Endemic Freshwater Sardinella (<i>Sardinella tawilis</i> Herre, 1927) Osmoregulatory Organs in Relation to Its Freshwater Adaptation
         authors:
           - KUEB Antonio
           - M Arguelles
@@ -64,7 +64,7 @@ cv:
         url: https://drive.google.com/file/d/1gSn54E0ROc7c97N7JyIuftOIRcNY8TLY/view?usp=sharing
         summary: KUEB Antonio, M Arguelles, BAN Monteiro, CKP Yuson, LJR Dela Cruz, AP Manalang, NO Villa, JGC Angeles. Nueva Ecija, Philippines. Best Poster in the Data Science and Bioinformatics Category.
 
-      - title: Methylome Analysis of Tawilis (<i>Sardinella tawilis</i>) Utilizing Various Reference Genomes Using Bowtie2.
+      - title: Methylome Analysis of Tawilis (<i>Sardinella tawilis</i>) Utilizing Various Reference Genomes Using Bowtie2
         authors:
           - BAN Monteiro
           - CKP Yuson
@@ -77,7 +77,7 @@ cv:
         url: https://drive.google.com/file/d/1zRmiKDWzrkrr9FtfdYABmWALtIk6nWzb/view?usp=sharing
         summary: BAN Monteiro, CKP Yuson, KUEB Antonio, M Arguelles, LJR Dela Cruz, JGC Angeles. Manila, Philippines.
 
-      - title: Methylome Analysis of Sardinella tawilis Osmoregulatory Organs Reveal Insights into Its Freshwater Adaptation.
+      - title: Methylome Analysis of Sardinella tawilis Osmoregulatory Organs Reveal Insights into Its Freshwater Adaptation
         authors:
           - KUEB Antonio
           - M Arguelles
@@ -89,12 +89,12 @@ cv:
           - NO Villa
           - CDO Calapit-Palao
           - JGC Angeles
-        publisher: Plant and Animal Genome Conference - Asia.
+        publisher: Plant and Animal Genome Conference - Asia
         releaseDate: 2024
         url: https://drive.google.com/file/d/1B8jTmAfLz_58mToCjIfwFROrs0x39bbi/view?usp=sharing
         summary: KUEB Antonio, M Arguelles, BAN Monteiro, CKP Yuson, LJR Dela Cruz, MRU Anacleto, AJ Jacildo, NO Villa, CDO Calapit-Palao, JGC Angeles. Shenzhen, China.
 
-      - title: Comparative Analyses of Bioinformatics Pipelines for <i>Sardinella tawilis</i> Methylomes in Relation to Environmental Adaptation.
+      - title: Comparative Analyses of Bioinformatics Pipelines for <i>Sardinella tawilis</i> Methylomes in Relation to Environmental Adaptation
         authors:
           - M Arguelles
           - KUEB Antonio
